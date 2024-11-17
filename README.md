@@ -59,10 +59,14 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 
 3. Design Thinking: MedLink System Integrated APP
 
+_To be continued..._
+
 **_Discrete Structure_**
 1. Group Assignment:
    - Chapter 1.1 to 2.2 (Due on 9th Nov)
    - Chapter 2.3 to 3.4 (Due on 30th Nov)
+
+_To be continued..._
 
 **_Digital Logic_**
 1. Lab 1: Work in pair at Digital Logic Lab (Level 3, N28)
@@ -71,14 +75,37 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 
    ![WhatsApp Image 2024-11-12 at 12 27 50_fc3dd790](https://github.com/user-attachments/assets/22d7674a-dcd2-46f4-b44c-b4df477df894)
 
+_To be continued..._
+
 **_Programming Technique_**
 1. Assignment 1: Work in pair (Due on 2nd Nov)
+
+_To be continued..._
 
 **_Integrity and Anti-corruption_**
 1. Poster: BMF Scandal
 2. Video: BMF Scandal
 
-## Reflections On Every Assignments/Projects
-  
+_To be continued..._
 
+## Reflections On Every Assignments/Projects
+**_Technology & Information System_**
+1. <ins>Overview of ICT Jobs In Industry</ins>
+
+   From this assignment, I learned the way to do filter information and arrange all the useful information inside a poster systematically to create a stronger visual impact and easier-to-understand
+   poster. I get information from my group members and filter necessary information to be inserted in the poster. Arrangement of all the information is a big challenge for me since the 
+   information needed is a lot and the spaces available is only an A4 paper. Due to this problem, I used Pinterest to search some examples of imformative poster as inspiration. Then the result 
+   turns out well. From this, I learned that how important it is to learn from others to make up for my own shortcomings.
+   
+   ![WhatsApp Image 2024-11-17 at 18 38 27_1e2570c3](https://github.com/user-attachments/assets/eae47dd3-aeea-4c0a-9873-517290ea2118)
+
+
+3. <ins>PC Assemble Lab</ins>
+  
+   This lab let me know that I have to absorb all the knowledges on the spot and apply them right after it. It is a must to listen to the lesson carefuly and be fully concentrate. So, that you can 
+   make sure that you gained the knowledge taught 100%. Not only that, the importance to have strong hands-on ability is also the crucial point I gained from this lab. No matter how solid your 
+   theoretical knowledge is，with weak hands-on ability, it's just nothing. 
+
+4. <ins>Design Thinking: MedLink System Integrated APP</ins>
+   This is the first big project that related to technology I conducted with my group members.
 
