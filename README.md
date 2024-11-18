@@ -147,3 +147,8 @@ A balance between theoretical lessons and in-class activities need to be maintai
  
 💡 **_Digital Logic_**
 
+Through this course I learned how the microprocessors of computer works and the basic logic behind coding. The lab I mentioned above taught me how logic gates can be connected in such a way we can get desirce result. It provides me a hands-on chance to do the connection of logic gates by my teammates and me under the care of insturctors and professor. I have a deeper understanding on how binary number works in computer.
+
+I suggest that more exercises should be provided through e-learning platform for us to do since exercises make perfect. We need more exercises to be more familiar with it. If not it's too easy for me to be forgetful about the knowledges I gained from professor during the classes.
+
+⌨️ **_Programming Technique_**
