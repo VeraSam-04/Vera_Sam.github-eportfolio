@@ -52,7 +52,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 ## Recording of Assignments/Projects for each course in this semester 
 🖥️ **_Technology & Information System_**
 1. Industrial Talk and Industry Visit:
-   - Assingment 1: Overview of ICT Jobs In Industry Poster (in charge of poster designing)
+   - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
     ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
    
 2. PC Assemble (lab) - Individual Quiz
@@ -81,12 +81,20 @@ _To be continued..._
 
 ⌨️ **_Programming Technique_**
 1. Assignment 1: Work in pair (Due on 2nd Nov)
+[Assignment 1](https://drive.google.com/file/d/1RTMbtGcWIOsBNW0e79GnCeSWK2s0EWqc/view?usp=drive_link)
 
+2. Assignment 2: Work in pair (Due on 
 _To be continued..._
 
 🖋️ **_Integrity and Anti-corruption_**
-1. Poster: BMF Scandal
-2. Video: BMF Scandal
+Title: Kontraktor beri rasuah kepada Pejabat Tanah dan Galian agar tidak mengambil tindakan syarikat
+
+Background: 
+Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (atau penjara lima bulan) kerana rasuah. Beliau didakwa memberi rasuah RM 3000.00 kepada penguatkuasa Pejabat Tanah dan Galian (PTG) Ipoh agar tidak mengambil tindakan ke atas syarikat miliknya yang mengeluarkan bahan batu tanpa permit.
+
+1. Poster: Submitted on 8/12/2024
+   [Photo of the poster](https://drive.google.com/file/d/1xFG-wfJN1w2lqslTtQ_QF99JzJzuHVTb/view?usp=drive_link)
+3. Video: Acting about rasuah
 
 _To be continued..._
 
