@@ -117,7 +117,7 @@ Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (ata
 3. Group Meeting Report: [Report](https://drive.google.com/file/d/1y3f2XW17wsz3tROqEPZyoI9xi_I8fm2u/view?usp=drive_link)
 _To be continued..._
 
-## $${\color{darkpink}Reflections \space On \space Every \space Courses}$$
+## $${\color{pink}Reflections \space On \space Every \space Courses}$$
 🖥️ **_Technology & Information System_**
 
    From all the assignments of this course, I learned the way to filter information and arrange all the useful information inside a poster systematically to create a stronger visual impact and easier-to-understand
