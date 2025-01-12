@@ -120,6 +120,7 @@ _To be continued..._
 ## $${\color{pink}Reflections \space On \space Every \space Courses}$$
 🖥️ **_Technology & Information System_**
 1. <ins>Industry Talk and Industry Visit<ins>
+
    From all the assignments of related to industry talk and visit, I learned the way to filter information and arrange all the useful information inside a poster/newsletter/report systematically to create a stronger visual impact and easier-to-understand
    content. Designing a report, poster and newsletter are challenging for me since I'm not a student that learn design from a profession before. Due to this problem, I used Pinterest to search some examples as inspiration and I'm satisfied with the outcomes. 
    From this, I learned that how important it is to learn from others to make up for my own shortcomings.
