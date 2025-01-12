@@ -57,13 +57,13 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
     ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
    - Assignment 2: Video of Industry Visit 1 to UTMDigital (in charge of video editing)
      
-    [Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
+      [Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
    - Assignment 3: Academic Writing (in charge of poster designing and Article 2's information organizing)
      
-    [Poster: Skills In University and Industry](https://drive.google.com/file/d/12ZhcBcClfN6L0r9VbyXTGAgCVPVMptbr/view?usp=drive_link)
+      [Poster: Skills In University and Industry](https://drive.google.com/file/d/12ZhcBcClfN6L0r9VbyXTGAgCVPVMptbr/view?usp=drive_link)
    - Assignment 4: Newsletter of Industry Visit 2 to MAGICX (in charge of newsletter designing)
      
-    [Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
+      [Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
 
 2. Design Thinking Project: MedLink System Integrated APP
    - Role: Prototyping 
