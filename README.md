@@ -119,22 +119,14 @@ _To be continued..._
 
 ## $${\color{pink}Reflections \space On \space Every \space Courses}$$
 🖥️ **_Technology & Information System_**
-
-   From all the assignments of this course, I learned the way to filter information and arrange all the useful information inside a poster systematically to create a stronger visual impact and easier-to-understand
-   poster. I get information from my group members and filter necessary information to be inserted in the poster. Arrangement of all the information is a big challenge for me since the 
-   information needed is a lot and the spaces available is only an A4 paper. Due to this problem, I used Pinterest to search some examples of imformative poster as inspiration. Then the result 
-   turns out well. From this, I learned that how important it is to learn from others to make up for my own shortcomings.
+1. <ins>Industry Talk and Industry Visit<ins>
+   From all the assignments of related to industry talk and visit, I learned the way to filter information and arrange all the useful information inside a poster/newsletter/report systematically to create a stronger visual impact and easier-to-understand
+   content. Designing a report, poster and newsletter are challenging for me since I'm not a student that learn design from a profession before. Due to this problem, I used Pinterest to search some examples as inspiration and I'm satisfied with the outcomes. 
+   From this, I learned that how important it is to learn from others to make up for my own shortcomings.
    
    [Evidence of my pinterest collection](https://drive.google.com/file/d/1YCHisEfAgCZP-jWeSPBCplMJbwgH7gPe/view?usp=drive_link)
 
-
-2. <ins>PC Assemble Lab</ins>
-  
-   This lab let me know that I have to absorb all the knowledges on the spot and apply them right after it. It is a must to listen to the lesson carefuly and be fully concentrate. So, that you can 
-   make sure that you gained the knowledge taught 100%. Not only that, the importance to have strong hands-on ability is also the crucial point I gained from this lab. No matter how solid your 
-   theoretical knowledge is，with weak hands-on ability, it's just nothing. 
-
-3. <ins>Design Thinking: MedLink System Integrated APP</ins>
+2. <ins>Design Thinking: MedLink System Integrated APP</ins>
 
    This is the first big project that related to technology I conducted with my group members. This project forces me to trigger my creativity to produce an attractive idea to be adopted. Before coming up with an actual 
    plan for my idea, I did a lot of research to ensure that the idea can be implemented in reality, but not just by imagination. I have to confirm that it is a thing that has a market in Malaysia, and people really need 
