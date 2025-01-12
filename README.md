@@ -111,7 +111,7 @@ Background:
 Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (atau penjara lima bulan) kerana rasuah. Beliau didakwa memberi rasuah RM 3000.00 kepada penguatkuasa Pejabat Tanah dan Galian (PTG) Ipoh agar tidak mengambil tindakan ke atas syarikat miliknya yang mengeluarkan bahan batu tanpa permit.
 
 1. Poster: Submitted on 8/12/2024
-   ![Photo of the poster](https://drive.google.com/file/d/1xFG-wfJN1w2lqslTtQ_QF99JzJzuHVTb/view?usp=drive_link)
+   ![Photo of the poster]()
 2. Video: Acting about rasuah
 3. Group Meeting Report: [Report](https://drive.google.com/file/d/1y3f2XW17wsz3tROqEPZyoI9xi_I8fm2u/view?usp=drive_link)
 _To be continued..._
