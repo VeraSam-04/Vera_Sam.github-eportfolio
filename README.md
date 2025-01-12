@@ -105,6 +105,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
    [Assignment 3](https://drive.google.com/drive/folders/1d7ukI3fojdqQFp7FUd7soBqZHKAKQabA?usp=drive_link)
 
 🖋️ **_Integrity and Anti-corruption_**
+
 Title: Kontraktor beri rasuah kepada Pejabat Tanah dan Galian agar tidak mengambil tindakan syarikat
 
 Background: 
@@ -116,11 +117,10 @@ Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (ata
 3. Group Meeting Report: [Report](https://drive.google.com/file/d/1y3f2XW17wsz3tROqEPZyoI9xi_I8fm2u/view?usp=drive_link)
 _To be continued..._
 
-## Reflections On Every Assignments/Projects
+## $${\color{pink}Reflections \space On \space Every \space Courses}$$
 🖥️ **_Technology & Information System_**
-1. <ins>Overview of ICT Jobs In Industry</ins>
 
-   From this assignment, I learned the way to filter information and arrange all the useful information inside a poster systematically to create a stronger visual impact and easier-to-understand
+   From all the assignments of this course, I learned the way to filter information and arrange all the useful information inside a poster systematically to create a stronger visual impact and easier-to-understand
    poster. I get information from my group members and filter necessary information to be inserted in the poster. Arrangement of all the information is a big challenge for me since the 
    information needed is a lot and the spaces available is only an A4 paper. Due to this problem, I used Pinterest to search some examples of imformative poster as inspiration. Then the result 
    turns out well. From this, I learned that how important it is to learn from others to make up for my own shortcomings.
