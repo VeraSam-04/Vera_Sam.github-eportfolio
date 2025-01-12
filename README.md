@@ -49,7 +49,8 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 1. Github: https://github.com/VeraSam-04
 2. LinkedIn: https://www.linkedin.com/in/wei-leng-238130273/
 
-## Recording of Assignments/Projects for each course in this semester #C58997
+## Recording of Assignments/Projects for each course in this semester 
+The backgournf colour for the line above is'#C58997'
 🖥️ **_Technology & Information System_**
 1. Industrial Talk and Industry Visit:
    - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
