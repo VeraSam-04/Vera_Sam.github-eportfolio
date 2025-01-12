@@ -49,16 +49,20 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 1. Github: https://github.com/VeraSam-04
 2. LinkedIn: https://www.linkedin.com/in/wei-leng-238130273/
 
-## $${\color{purple}Recording \space of \space Assignments/Projects \space for \space each \space course \space in \space this \space semester}$$ 
+## $${\color{lightpurple}Recording \space of \space Assignments/Projects \space for \space each \space course \space in \space this \space semester}$$ 
 🖥️ **_Technology & Information System_**
 1. Industrial Talk and Industry Visit:
    - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
+     
     ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
    - Assignment 2: Video of Industry Visit 1 to UTMDigital (in charge of video editing)
+     
     ![Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
    - Assignment 3: Academic Writing (in charge of poster designing and Article 2's information organizing)
+     
     ![Poster: Skills In University and Industry](https://drive.google.com/file/d/12ZhcBcClfN6L0r9VbyXTGAgCVPVMptbr/view?usp=drive_link)
    - Assignment 4: Newsletter of Industry Visit 2 to MAGICX (in charge of newsletter designing)
+     
     ![Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
 
 2. Design Thinking Project: MedLink System Integrated APP
@@ -70,13 +74,17 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 🧮 **_Discrete Structure_**
 1. Group Assignment:
    - Chapter 1.1 to 2.2 (Due on 9th Nov 2024)
-     ![Assignment 1](https://drive.google.com/file/d/1lnzSNhf85f6R1Zg9GIFhoPEE5zQHLuH6/view?usp=drive_link)
+     
+     [Assignment 1](https://drive.google.com/file/d/1lnzSNhf85f6R1Zg9GIFhoPEE5zQHLuH6/view?usp=drive_link)
    - Chapter 2.3 to 3.4 (Due on 30th Nov 2024)
-     ![Assignment 2](https://drive.google.com/file/d/1S08mF0O4PD_YGFsc4Cq3c2uL3I8ZHAeP/view?usp=drive_link)
+     
+     [Assignment 2](https://drive.google.com/file/d/1S08mF0O4PD_YGFsc4Cq3c2uL3I8ZHAeP/view?usp=drive_link)
    - Chapter 3.5 to 4.3 (Due on 27th Dec 2024)
-     ![Asssignment 3](https://drive.google.com/file/d/1S08mF0O4PD_YGFsc4Cq3c2uL3I8ZHAeP/view?usp=drive_link)
+     
+     [Asssignment 3](https://drive.google.com/file/d/1S08mF0O4PD_YGFsc4Cq3c2uL3I8ZHAeP/view?usp=drive_link)
    - Chapter 4.7 to 5.2 (Due on 16th Jan 2025)
-     ![Assignment 4](
+     
+     [Assignment 4](
 
 💡 **_Digital Logic_**
 1. Final Project
@@ -84,11 +92,17 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 
 
 ⌨️ **_Programming Technique_**
-1. Assignment 1: Work in pair (Due on 2nd Nov)
-[Assignment 1](https://drive.google.com/file/d/1RTMbtGcWIOsBNW0e79GnCeSWK2s0EWqc/view?usp=drive_link)
+1. Assignment 1: Work in pair (Due on 2nd Nov 2024)
+   
+   [Assignment 1](https://drive.google.com/file/d/1RTMbtGcWIOsBNW0e79GnCeSWK2s0EWqc/view?usp=drive_link)
 
-2. Assignment 2: Work in pair (Due on 
-_To be continued..._
+2. Assignment 2: Work in pair (Due on 28th Dec 2024)
+
+   [Assignment 2](https://drive.google.com/file/d/1EVt8Yh05XZbMuxnsF0bjjsKxbZC_FsLk/view?usp=drive_link)
+
+3. Assignment 3: Work in pair (Due on 13th Jan 2025)
+   
+   [Assignment 3](https://drive.google.com/drive/folders/1d7ukI3fojdqQFp7FUd7soBqZHKAKQabA?usp=drive_link)
 
 🖋️ **_Integrity and Anti-corruption_**
 Title: Kontraktor beri rasuah kepada Pejabat Tanah dan Galian agar tidak mengambil tindakan syarikat
@@ -97,9 +111,9 @@ Background:
 Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (atau penjara lima bulan) kerana rasuah. Beliau didakwa memberi rasuah RM 3000.00 kepada penguatkuasa Pejabat Tanah dan Galian (PTG) Ipoh agar tidak mengambil tindakan ke atas syarikat miliknya yang mengeluarkan bahan batu tanpa permit.
 
 1. Poster: Submitted on 8/12/2024
-   [Photo of the poster](https://drive.google.com/file/d/1xFG-wfJN1w2lqslTtQ_QF99JzJzuHVTb/view?usp=drive_link)
-3. Video: Acting about rasuah
-
+   ![Photo of the poster](https://drive.google.com/file/d/1xFG-wfJN1w2lqslTtQ_QF99JzJzuHVTb/view?usp=drive_link)
+2. Video: Acting about rasuah
+3. Group Meeting Report: [Report](https://drive.google.com/file/d/1y3f2XW17wsz3tROqEPZyoI9xi_I8fm2u/view?usp=drive_link)
 _To be continued..._
 
 ## Reflections On Every Assignments/Projects
