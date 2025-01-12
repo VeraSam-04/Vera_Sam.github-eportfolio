@@ -49,11 +49,13 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 1. Github: https://github.com/VeraSam-04
 2. LinkedIn: https://www.linkedin.com/in/wei-leng-238130273/
 
-## Recording of Assignments/Projects for each course in this semester 
+## Recording of Assignments/Projects for each course in this semester #C58997
 🖥️ **_Technology & Information System_**
 1. Industrial Talk and Industry Visit:
    - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
     ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
+   - Assignment 2: Video of Industry Visit 1 to UTMDigital
+     
    
 2. PC Assemble (lab) - Individual Quiz
    
