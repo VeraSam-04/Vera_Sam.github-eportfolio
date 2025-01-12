@@ -54,32 +54,34 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 1. Industrial Talk and Industry Visit:
    - Assingment 1: Overview of ICT Jobs In Industry's Poster (in charge of poster designing)
     ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
-   - Assignment 2: Video of Industry Visit 1 to UTMDigital
-     
-   
-2. PC Assemble (lab) - Individual Quiz
-   
-   [Picture took during the lab](https://drive.google.com/file/d/1lbZq5GfO7jEBOuEs0FGt_KyaJDqVSroL/view?usp=drive_link)
+   - Assignment 2: Video of Industry Visit 1 to UTMDigital (in charge of video editing)
+    ![Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
+   - Assignment 3: Academic Writing (in charge of poster designing and Article 2's information organizing)
+    ![Poster: Skills In University and Industry](https://drive.google.com/file/d/12ZhcBcClfN6L0r9VbyXTGAgCVPVMptbr/view?usp=drive_link)
+   - Assignment 4: Newsletter of Industry Visit 2 to MAGICX (in charge of newsletter designing)
+    ![Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
 
-4. Design Thinking: MedLink System Integrated APP
-
-_To be continued..._
+2. Design Thinking Project: MedLink System Integrated APP
+   - Role: Prototyping 
+   - Report: [Report submitted](https://docs.google.com/document/d/1w1yvnSP165jg1foz9DhB7C2CA8BOHhwi/edit?usp=drive_link&ouid=109765325805169218130&rtpof=true&sd=true)
+   - Video: [Video submitted](https://drive.google.com/file/d/1LvJhssDh4RJOZLKDv5z8sFjedmDVZhKP/view?usp=drive_link)
+   - Presentation Slide: 
 
 🧮 **_Discrete Structure_**
 1. Group Assignment:
-   - Chapter 1.1 to 2.2 (Due on 9th Nov)
-   - Chapter 2.3 to 3.4 (Due on 30th Nov)
-
-_To be continued..._
+   - Chapter 1.1 to 2.2 (Due on 9th Nov 2024)
+     ![Assignment 1](https://drive.google.com/file/d/1lnzSNhf85f6R1Zg9GIFhoPEE5zQHLuH6/view?usp=drive_link)
+   - Chapter 2.3 to 3.4 (Due on 30th Nov 2024)
+     ![Assignment 2](https://drive.google.com/file/d/1S08mF0O4PD_YGFsc4Cq3c2uL3I8ZHAeP/view?usp=drive_link)
+   - Chapter 3.5 to 4.3 (Due on 27th Dec 2024)
+     ![Asssignment 3](https://drive.google.com/file/d/1S08mF0O4PD_YGFsc4Cq3c2uL3I8ZHAeP/view?usp=drive_link)
+   - Chapter 4.7 to 5.2 (Due on 16th Jan 2025)
+     ![Assignment 4](
 
 💡 **_Digital Logic_**
-1. Lab 1: Work in pair at Digital Logic Lab (Level 3, N28)
-   
-   One of the gate arrangement using Deeds (Deeds submission is needed)
+1. Final Project
 
-   ![WhatsApp Image 2024-11-12 at 12 27 50_fc3dd790](https://github.com/user-attachments/assets/22d7674a-dcd2-46f4-b44c-b4df477df894)
 
-_To be continued..._
 
 ⌨️ **_Programming Technique_**
 1. Assignment 1: Work in pair (Due on 2nd Nov)
