@@ -57,13 +57,13 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
     ![Overview of ICT jobs](https://github.com/user-attachments/assets/d6af3414-cc57-4a7e-921a-1882aac5cb59)
    - Assignment 2: Video of Industry Visit 1 to UTMDigital (in charge of video editing)
      
-    ![Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
+    [Video of Industry Visit 1](https://drive.google.com/file/d/14VvHXPuBt_WW6CV3fFcrTaw2B5IA87kl/view?usp=drive_link)
    - Assignment 3: Academic Writing (in charge of poster designing and Article 2's information organizing)
      
-    ![Poster: Skills In University and Industry](https://drive.google.com/file/d/12ZhcBcClfN6L0r9VbyXTGAgCVPVMptbr/view?usp=drive_link)
+    [Poster: Skills In University and Industry](https://drive.google.com/file/d/12ZhcBcClfN6L0r9VbyXTGAgCVPVMptbr/view?usp=drive_link)
    - Assignment 4: Newsletter of Industry Visit 2 to MAGICX (in charge of newsletter designing)
      
-    ![Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
+    [Newsletter of Industry Visit 2](https://drive.google.com/file/d/1H3dpezWyqEa-g52VPX5dACdMTwxRwGJH/view?usp=drive_link)
 
 2. Design Thinking Project: MedLink System Integrated APP
    - Role: Prototyping 
@@ -111,7 +111,7 @@ Background:
 Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (atau penjara lima bulan) kerana rasuah. Beliau didakwa memberi rasuah RM 3000.00 kepada penguatkuasa Pejabat Tanah dan Galian (PTG) Ipoh agar tidak mengambil tindakan ke atas syarikat miliknya yang mengeluarkan bahan batu tanpa permit.
 
 1. Poster: Submitted on 8/12/2024
-   ![Photo of the poster]()
+   ![Photo of the poster](https://github.com/user-attachments/assets/12f174f1-deb2-45be-b0bb-a7b1249a9b5a)
 2. Video: Acting about rasuah
 3. Group Meeting Report: [Report](https://drive.google.com/file/d/1y3f2XW17wsz3tROqEPZyoI9xi_I8fm2u/view?usp=drive_link)
 _To be continued..._
