@@ -69,7 +69,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
    - Role: Prototyping 
    - Report: [Report submitted](https://docs.google.com/document/d/1w1yvnSP165jg1foz9DhB7C2CA8BOHhwi/edit?usp=drive_link&ouid=109765325805169218130&rtpof=true&sd=true)
    - Video: [Video submitted](https://drive.google.com/file/d/1LvJhssDh4RJOZLKDv5z8sFjedmDVZhKP/view?usp=drive_link)
-   - Presentation Slide: 
+   - Presentation Slide: https://www.canva.com/design/DAGbm-s1ByM/jSQJoOsZIeN42YhhQNwd3g/edit?utm_content=DAGbm-s1ByM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 🧮 **_Discrete Structure_**
 1. Group Assignment:
