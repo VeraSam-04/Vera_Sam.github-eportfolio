@@ -107,9 +107,10 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 
 🖋️ **_Integrity and Anti-corruption_**
 
-Title: Kontraktor beri rasuah kepada Pejabat Tanah dan Galian agar tidak mengambil tindakan syarikat
+$${\color{lightgreen}Title}$$: Kontraktor beri rasuah kepada Pejabat Tanah dan Galian agar tidak mengambil tindakan syarikat
 
-Background: 
+$${\color{lightgreen}Background}$$: 
+
 Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (atau penjara lima bulan) kerana rasuah. Beliau didakwa memberi rasuah RM 3000.00 kepada penguatkuasa Pejabat Tanah dan Galian (PTG) Ipoh agar tidak mengambil tindakan ke atas syarikat miliknya yang mengeluarkan bahan batu tanpa permit.
 
 1. Poster: Submitted on 8/12/2024
