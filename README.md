@@ -179,6 +179,6 @@ For the suggestion, I hope that more discussion about coding of a big project co
 
 🖋️ **_Integrity and Anti-corruption_**
 
-This course taught me how to be an integrity person in the community, university, and family. If I want to conclude all the knowledges and values I gained from this course with a sentence it will be "You are rewarded for your efforts." You did crime, you get legal punishment; you did good deeds, you get good karma. 
+This course taught me how to be an integrity person in the community, university, and family. If I want to conclude all the knowledges and values I gained from this course with a sentence it will be "You are rewarded for your efforts." You did crime, you are rewarded by legal punishment; you did good deeds, you gain good karma. 
 
 One of the suggestions from me is that more physical classes should be held so that we can connect with the lecturer much more easier because we might not get the respond through online communication due to the busyness of lecturer. 
