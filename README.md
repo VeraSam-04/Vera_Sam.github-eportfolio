@@ -70,6 +70,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
    - Report: [Report submitted](https://docs.google.com/document/d/1w1yvnSP165jg1foz9DhB7C2CA8BOHhwi/edit?usp=drive_link&ouid=109765325805169218130&rtpof=true&sd=true)
    - Video: [Video submitted](https://drive.google.com/file/d/1LvJhssDh4RJOZLKDv5z8sFjedmDVZhKP/view?usp=drive_link)
    - Presentation Slide: https://www.canva.com/design/DAGbm-s1ByM/jSQJoOsZIeN42YhhQNwd3g/edit?utm_content=DAGbm-s1ByM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   - Protottpe: https://marvelapp.com/prototype/fhbjjci/screen/96385642
 
 🧮 **_Discrete Structure_**
 1. Group Assignment:
@@ -84,7 +85,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
      [Asssignment 3](https://drive.google.com/file/d/1S08mF0O4PD_YGFsc4Cq3c2uL3I8ZHAeP/view?usp=drive_link)
    - Chapter 4.7 to 5.2 (Due on 16th Jan 2025)
      
-     [Assignment 4](
+     [Assignment 4](https://drive.google.com/file/d/1-jZzo4RgFzPFB4biRhbOh8bEc9XFMduu/view?usp=drive_link)
 
 💡 **_Digital Logic_**
 1. Final Project
@@ -114,8 +115,8 @@ Seorang kontraktor binaan dihukum penjara tiga bulan dan denda RM 15 000.00 (ata
 1. Poster: Submitted on 8/12/2024
    ![Photo of the poster](https://github.com/user-attachments/assets/12f174f1-deb2-45be-b0bb-a7b1249a9b5a)
 2. Video: Acting about rasuah
-3. Group Meeting Report: [Report](https://drive.google.com/file/d/1y3f2XW17wsz3tROqEPZyoI9xi_I8fm2u/view?usp=drive_link)
-_To be continued..._
+   https://youtu.be/xPXWKhB2_Jk
+4. Group Meeting Report: [Report](https://drive.google.com/file/d/1y3f2XW17wsz3tROqEPZyoI9xi_I8fm2u/view?usp=drive_link)
 
 ## $${\color{pink}Reflections \space On \space Every \space Courses}$$
 🖥️ **_Technology & Information System_**
@@ -156,8 +157,8 @@ A balance between theoretical lessons and in-class activities need to be maintai
 
    Assignments of Discrete Structure taught me that before submitting any assignments or projects, we must check it at least 3 times with eyes open widely. Due to the mentality of luck, we just check our answers roughly 
    and our Assignment 1 (Chapter 1.1 to 2.2) turns out that we have more than a careless mistake. However, the submission is due, no more edit and re-submission are allowed. This had give me a lesson that wishful 
-   thinking has to be avoided  and we have to pay 100% of concentration in doing everything. Other than that, these assignments also helps me has a deeper understanding towards this course since I will do extra online 
-   self learning to done them. Also they help me to improve my logical thinking skills and analysis skills on questions or difficulties. The main thing I gained from this course is that it is important to do self- 
+   thinking has to be avoided and we have to pay 100% of concentration in doing everything. Other than that, these assignments and discrete structure course help me to have a deeper understanding towards permutation, 
+   combination, and probability. Also they help me to improve my logical thinking skills and analysis skills on questions or difficulties. The main thing I gained from this course is that it is important to do self- 
    improvement or self-learning to have a better understanding.
 
    Improvement that can be done of this course is that there is too little of tricky questions provided for us to try. Most of the tasks given in class or through e-learning are mostly basic or average hard level. Tricky 
@@ -168,6 +169,16 @@ A balance between theoretical lessons and in-class activities need to be maintai
 
 Through this course I learned how the microprocessors of computer works and the basic logic behind coding. The lab I mentioned above taught me how logic gates can be connected in such a way we can get desirce result. It provides me a hands-on chance to do the connection of logic gates by my teammates and me under the care of insturctors and professor. I have a deeper understanding on how binary number works in computer.
 
-I suggest that more exercises should be provided through e-learning platform for us to do since exercises make perfect. We need more exercises to be more familiar with it. If not it's too easy for me to be forgetful about the knowledges I gained from professor during the classes.
+I suggest that more exercises should be provided through e-learning platform for us to do since exercises make perfect. We need more exercises to be more familiar with it. If not it's too easy for me to be forgetful about the knowledges I gained from lecturer during the classes.
 
-⌨️ **_Programming Technique_**
+⌨️ **_Programming Technique 1_**
+
+Programming Technique 1 could be said is the most challenging course among the 5 courses. It's more about practical than theoretical knowledge. Even though I understood everything in the teaching materials provided by lecturer for revision, it doesn't mean that I can completely done a big question without the help of online sources. For the last assignment we done is very complex, it alert me that a thorough coding for a project is the combination of everything we learned, like input and output, function, and array. I knew that I have to pay more effort on this course and coding to be a valuable and competitive person in the Information Technology industry. 
+
+For the suggestion, I hope that more discussion about coding of a big project could be done so that we will know what should be notice and the technics we need to solve a complicated task. 
+
+🖋️ **_Integrity and Anti-corruption_**
+
+This course taught me how to be an integrity person in the community, university, and family. If I want to conclude all the knowledges and values I gained from this course with a sentence it will be "You are rewarded for your efforts." You did crime, you get legal punishment; you did good deeds, you get good karma. 
+
+One of the suggestions from me is that more physical classes should be held so that we can connect with the lecturer much more easier because we might not get the respond through online communication due to the busyness of lecturer. 
