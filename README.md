@@ -5,7 +5,7 @@ Hey Guys! Welcome to Vera's Github wonderland！❤️
 ![Vera's pic](https://github.com/user-attachments/assets/2391946e-32f1-4e6f-be44-bee1b873cc3e) 
 **Know More About My Wonderland🫧**
 
-Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan located in Pahang. I just turned 20 a month ago which is on 18th October. I love the number of 18 since it's a number always by my side. So, in my e-portfolio I'll share my personal education information and some of the honors and certs I gained. Other than that, I'll record all the assignments for each courses I did throughout this whole semester (Y1S1). At last, I'll share all my reflections on every assignments I did. I hope thruough this e-portfolio, all of you will have a stroger connection with me and know me better! Thank you.
+Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan located in Pahang. I just turned 20 a month ago which is on 18th October. I love the number of 18 since it's a number always by my side. So, in my e-portfolio I'll share my personal education information and some of the honors and certs I gained. Other than that, I'll record all the assignments for each courses I did throughout this whole semester (Y1S1). At last, I'll share all my reflections on every courses this semester. I hope thruough this e-portfolio, all of you will have a stroger connection with me and know me better! Thank you.
 
 🤍 **_Core_** 🤍
 1. Education level
