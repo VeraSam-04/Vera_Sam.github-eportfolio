@@ -71,6 +71,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
    - Video: [Video submitted](https://drive.google.com/file/d/1LvJhssDh4RJOZLKDv5z8sFjedmDVZhKP/view?usp=drive_link)
    - Presentation Slide: https://www.canva.com/design/DAGbm-s1ByM/jSQJoOsZIeN42YhhQNwd3g/edit?utm_content=DAGbm-s1ByM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
    - Protottpe: https://marvelapp.com/prototype/fhbjjci/screen/96385642
+     
 
 🧮 **_Discrete Structure_**
 1. Group Assignment:
@@ -86,10 +87,12 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
    - Chapter 4.7 to 5.2 (Due on 16th Jan 2025)
      
      [Assignment 4](https://drive.google.com/file/d/1-jZzo4RgFzPFB4biRhbOh8bEc9XFMduu/view?usp=drive_link)
+     
 
 💡 **_Digital Logic_**
 1. Final Project
    [Report of final project](https://drive.google.com/file/d/1s7YXgb8CwotqWQHRl8nxW9jP8Za6B_bw/view?usp=drive_link)
+   
 
 ⌨️ **_Programming Technique_**
 1. Assignment 1: Work in pair (Due on 2nd Nov 2024)
@@ -103,6 +106,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 3. Assignment 3: Work in pair (Due on 13th Jan 2025)
    
    [Assignment 3](https://drive.google.com/drive/folders/1d7ukI3fojdqQFp7FUd7soBqZHKAKQabA?usp=drive_link)
+   
 
 🖋️ **_Integrity and Anti-corruption_**
 
