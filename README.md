@@ -89,8 +89,7 @@ Trying to know me? First, my name is Vera Sam Wei Leng and I'm from Kuantan loca
 
 💡 **_Digital Logic_**
 1. Final Project
-
-
+   [Report of final project](https://drive.google.com/file/d/1s7YXgb8CwotqWQHRl8nxW9jP8Za6B_bw/view?usp=drive_link)
 
 ⌨️ **_Programming Technique_**
 1. Assignment 1: Work in pair (Due on 2nd Nov 2024)
